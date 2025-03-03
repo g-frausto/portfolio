@@ -1,5 +1,7 @@
-title: Guillermo Frausto
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: Guillermo Frausto  
+description: "Portfolio showcasing my work in Machine Learning, AI, and Computational Methods"  
+show_downloads: false  
+theme: jekyll-theme-minimal  
+logo: /assets/profile.png  
+github:
+  is_project_page: false  
