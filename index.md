@@ -14,3 +14,7 @@ Here, you'll find a showcase of my projects applying AI techniques to real-world
 - More projects coming soon...
 
 Feel free to explore my GitHub repositories or contact me!
+
+## Publications  
+
+- **[Symmetry Reduction of Gravitational Lagrangians](publications.md)** – Published in *Physical Review D*  
