@@ -2,6 +2,6 @@ title: Guillermo Frausto
 description: "Portfolio showcasing my work in Machine Learning, AI, and Computational Methods"  
 show_downloads: false  
 theme: jekyll-theme-minimal  
-logo: /assets/profile.png  
+logo: /assets/head_shot.png  
 github:
   is_project_page: false  
