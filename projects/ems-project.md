@@ -19,4 +19,4 @@ This project applies Deep Q-Learning (DQN), Proximal Policy Optimization (PPO), 
 - Energy Management Simulation
 
 ## Code & Resources
-[GitHub Repository](https://github.com/your-repo-link)
+[GitHub Repository](https://github.com/g-frausto/EMS)
