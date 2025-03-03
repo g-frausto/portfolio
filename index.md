@@ -11,7 +11,7 @@ Here, you'll find a showcase of my projects applying AI techniques to real-world
 ## Featured Projects
 
 - [Energy Management System with Deep Reinforcement Learning](projects/ems-project.md)
-- More projects coming soon...
+- [Electric Bus Power Forecasting with RNNs](projects/electric-bus-forecasting.md)
 
 Feel free to explore my GitHub repositories or contact me!
 
